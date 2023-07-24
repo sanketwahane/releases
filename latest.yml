@@ -1,0 +1,7 @@
+version: 3.0.0
+files:
+  - url: "https://github.com/sanketwahane/releases/releases/download/v3.0.0/simple-accounts-manager-3.0.0.Setup.exe"
+    sha512: "1ef04efae2e37ade42ad5758e0b45c71be03dc29f48d30f3d700a1d0bbca8f2c0b0ea305b894ff27c853b3e2883e13d9342d9d69c8e32859276c27883c54df2c  simple-accounts-manager-3.0.0 Setup.exe"
+    size: 250,685,575 bytes
+    releaseDate: 24/07/2023
+    // Other properties related to the update (e.g., release notes, description)
